@@ -1,5 +1,9 @@
 # Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots
-https://github.com/user-attachments/assets/11eedf75-a6f1-488e-b34b-47c1a63c57f2
+
+
+https://github.com/user-attachments/assets/a4d1ca4f-e39a-43bf-b80d-f33ddafaa600
+
+
 
 <div align="center">
   
