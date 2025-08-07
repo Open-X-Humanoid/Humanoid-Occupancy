@@ -1,13 +1,8 @@
 # Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots
+https://github.com/user-attachments/assets/11eedf75-a6f1-488e-b34b-47c1a63c57f2
 
-<br>
-<video controls width="800">
-  <source src="https://media.githubusercontent.com/media/Open-X-Humanoid/Humanoid-Occupancy/refs/heads/main/assets/teaser.mp4" type="video/mp4">
-</video>
-
-<br>
 <div align="center">
-
+  
 [![License](https://img.shields.io/badge/License-BSD_3_Clause-yellow.svg)](https://opensource.org/license/bsd-3-clause)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Humanoid_Occupancy-blue.svg)](https://humanoid-occupancy.github.io/)
 [![arXiv](https://badgen.net/badge/icon/arXiv?icon=awesome&label&color=red&style=flat-square)](https://arxiv.org/abs/2507.20217)
